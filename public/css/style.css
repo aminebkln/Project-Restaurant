@@ -429,8 +429,9 @@ html, body{ height: 100%; }
 }
 .banner-text p{
 	font-family: 'Roboto', sans-serif;
-	font-size:18px;
-	color:#ccc;
+    font-weight: bolder;
+	font-size:22px;
+	color:rgb(245, 245, 245);
 	padding-bottom:35px;
 	margin:0px;
 }
